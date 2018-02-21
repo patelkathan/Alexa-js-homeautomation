@@ -1,6 +1,8 @@
-# alexa-app-example
+# Alexa-js-homeautomation
 
-An example Alexa Skill project using the [alexa-app](https://github.com/alexa-js/alexa-app) module with Express.
+An example Alexa Skill for Home Automation using the [alexa-app](https://github.com/alexa-js/alexa-app) module with Express.
+This app will not let you control your home but you can impliment you own actions on response of Specific Intents. 
+
 
 ## Deploy
 ### Deploying locally
