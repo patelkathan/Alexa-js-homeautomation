@@ -1,0 +1,13 @@
+{
+  "name": "Alexa-js-homeautomation",
+  "description": "A simple alexa-app example for Home Automation.",
+  "repository": "https://github.com/kathan565/Alexa-js-homeautomation",
+  "logo": "https://avatars0.githubusercontent.com/u/22058904?s=460&v=4",
+  "keywords": ["alexa", "amazon", "echo","home automation","skills"],
+  "success_url": "/test",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
